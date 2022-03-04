@@ -7,4 +7,4 @@ Credits go to Retraso for figuring out both Ishin pibs and Yakuza 0 pibs in the 
 Credits go to MinhGunKiss for helping me figure out how these pibs are formatted and testing the methods himself.
 Credits go to Sutando for his PyBinaryReader
 
-Testers: Violet, MinhGunKiss, SwiftBlur
+Testers: Violet, MinhGunKiss, SwiftBlur, Spoon722
