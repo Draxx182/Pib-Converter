@@ -1,6 +1,5 @@
 # Pib-Converter
 Currently only a Yakuza Ishin pib to Yakuza 0/Yakuza Kiwami pib converter. One way only.
-Experimental version can only convert one pib at a time currently.
 
 # Credits
 By Draxx182
